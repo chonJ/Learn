@@ -115,8 +115,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1.cpp" />
-    <ClCompile Include="2.cpp" />
+    <ClCompile Include="10_Regular_Expression_Matching.cpp" />
+    <ClCompile Include="11_.cpp" />
+    <ClCompile Include="15_.cpp" />
+    <ClCompile Include="17_.cpp" />
+    <ClCompile Include="19_.cpp" />
+    <ClCompile Include="20_.cpp" />
+    <ClCompile Include="5_Longest_Palindromic_Substring.cpp" />
+    <ClCompile Include="3_Longest_Substring_Without_Repeating_Characters.cpp" />
+    <ClCompile Include="4_Hard_Median_of_Two_Sorted_Arrays.cpp" />
+    <ClCompile Include="1_Two_Sum.cpp" />
+    <ClCompile Include="2_Add_Two_Numbers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
