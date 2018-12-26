@@ -48,5 +48,8 @@
     <ClCompile Include="20_.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="xinxin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
