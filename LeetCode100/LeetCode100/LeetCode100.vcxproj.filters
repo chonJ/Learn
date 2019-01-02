@@ -33,19 +33,19 @@
     <ClCompile Include="4_Hard_Median_of_Two_Sorted_Arrays.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="11_.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="15_.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="17_.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="19_.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="20_.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11_Container_With_Most_Water.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_3Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_Letter_Combinations_of_a_Phone_Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19_Remove_Nth_Node_From_End_of_List.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
