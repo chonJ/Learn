@@ -48,5 +48,8 @@
     <ClCompile Include="19_Remove_Nth_Node_From_End_of_List.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="xinxin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

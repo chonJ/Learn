@@ -126,6 +126,7 @@
     <ClCompile Include="4_Hard_Median_of_Two_Sorted_Arrays.cpp" />
     <ClCompile Include="1_Two_Sum.cpp" />
     <ClCompile Include="2_Add_Two_Numbers.cpp" />
+    <ClCompile Include="xinxin.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
