@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -115,18 +115,56 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="101.cpp" />
+    <ClCompile Include="102.cpp" />
+    <ClCompile Include="104.cpp" />
+    <ClCompile Include="105.cpp" />
     <ClCompile Include="10_Regular_Expression_Matching.cpp" />
+    <ClCompile Include="114.cpp" />
     <ClCompile Include="11_Container_With_Most_Water.cpp" />
+    <ClCompile Include="121.cpp" />
+    <ClCompile Include="124.cpp" />
+    <ClCompile Include="128.cpp" />
+    <ClCompile Include="136.cpp" />
+    <ClCompile Include="139.cpp" />
+    <ClCompile Include="141.cpp" />
     <ClCompile Include="15_3Sum.cpp" />
     <ClCompile Include="17_Letter_Combinations_of_a_Phone_Number.cpp" />
     <ClCompile Include="19_Remove_Nth_Node_From_End_of_List.cpp" />
-    <ClCompile Include="20_.cpp" />
+    <ClCompile Include="20_Valid_Parentheses.cpp" />
+    <ClCompile Include="22_Generate_Parentheses.cpp" />
+    <ClCompile Include="23_Merge_k_Sorted_Lists.cpp" />
+    <ClCompile Include="31_Next_Permutation.cpp" />
+    <ClCompile Include="32_Longest_Valid_Parentheses.cpp" />
+    <ClCompile Include="33_Search_in_Rotated_Sorted_Array.cpp" />
+    <ClCompile Include="34_Find_F_and_L_position_of_element.cpp" />
+    <ClCompile Include="39_combination_Sum.cpp" />
+    <ClCompile Include="42_Trapping_Rain_Water.cpp" />
+    <ClCompile Include="46_Permutations.cpp" />
+    <ClCompile Include="48_Rotate_Image.cpp" />
+    <ClCompile Include="49_Group_Anagrams.cpp" />
+    <ClCompile Include="53_Maximum_Subarry.cpp" />
+    <ClCompile Include="55__Jump_Game.cpp" />
+    <ClCompile Include="56_Merge_Intervals.cpp" />
     <ClCompile Include="5_Longest_Palindromic_Substring.cpp" />
     <ClCompile Include="3_Longest_Substring_Without_Repeating_Characters.cpp" />
     <ClCompile Include="4_Hard_Median_of_Two_Sorted_Arrays.cpp" />
     <ClCompile Include="1_Two_Sum.cpp" />
     <ClCompile Include="2_Add_Two_Numbers.cpp" />
-    <ClCompile Include="xinxin.cpp" />
+    <ClCompile Include="21_Merge_Two_Sorted_Lists.cpp" />
+    <ClCompile Include="62_Unique_Path.cpp" />
+    <ClCompile Include="64.cpp" />
+    <ClCompile Include="70.cpp" />
+    <ClCompile Include="72.cpp" />
+    <ClCompile Include="75.cpp" />
+    <ClCompile Include="76.cpp" />
+    <ClCompile Include="78.cpp" />
+    <ClCompile Include="79.cpp" />
+    <ClCompile Include="84.cpp" />
+    <ClCompile Include="85.cpp" />
+    <ClCompile Include="94.cpp" />
+    <ClCompile Include="96.cpp" />
+    <ClCompile Include="98.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
