@@ -84,75 +84,6 @@
     <ClCompile Include="49_Group_Anagrams.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="64.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="70.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="72.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="75.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="76.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="78.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="79.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="84.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="85.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="94.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="96.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="98.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="101.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="102.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="104.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="105.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="114.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="121.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="124.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="128.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="136.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="139.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="141.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="53_Maximum_Subarry.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -163,6 +94,225 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="62_Unique_Path.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64_MInimum_Path_Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="70_Climbing_Stairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="72_Edit_Distance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="75_Sort_Colors.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="76_Hard_Minimum_Windows_Substring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="78_Subsets.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="79_Word_Search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="84_Largest_Rectangle_in_Histogram.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="85____________haojiernan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="94_Binary_Tree_InorderTraversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="96_Unique_Binary_Search_Trees.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="98_Validate_Binary_Search_Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="101_Symmetric_Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="102_Binary_Tree_Level_Order_Traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="104_Maximum_Depth_of_Binary_Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="114_Flatten_Binary_Tree_to_Linked_List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="121_Best_time_to_Buy_and_sell_stock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="124_Binary_Tree_Maximum_Path_Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="128_Longest_Consecutive_Sequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="136_Single_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="139_Word_Break.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="141_Linked_List_Cycle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="208.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="215.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="221.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="226.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="234.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="236.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="238.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="239.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="240.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="253.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="279.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="283.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="287.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="300.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="309.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="322.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="337.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="338.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="347.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="394.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="406.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="416.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="437.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="438.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="448.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="461.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="494.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="538.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="543.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="560.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="572.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="581.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="617.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="621.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="647.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="771.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="312_H.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="301_H.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="297_H.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="142_Linked_List_Cycle_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="146_H不会.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="148_Sort_List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="152_Maximum_Product_Subarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="155_Min_Stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="160_Intersection_of_Two_Linked_Lists.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="169_Majority_Element.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="198_House_Robber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="200_Number_of_Island.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="206_Reverse_Linked_List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="207_Course_Schedule.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

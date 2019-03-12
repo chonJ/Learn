@@ -55,7 +55,7 @@ public:
 	}
 };
 
-void main()
+void main_Unique_paths()
 {
 	int m = 51, n = 9;
 	Solution so;
