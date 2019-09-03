@@ -4,7 +4,8 @@ using namespace std;
 
 class Solution {
 public:
-	string longestPalindrome(string s) {
+	//暴力区分两种情况 奇回文 和偶回文
+	string longestPalindrome_(string s) {
 		if (s.empty())
 			return s;
 		string res = { s[0] };
@@ -74,6 +75,45 @@ public:
 		for (int i = zuo;i <= you;i++)
 			sres += s[i];
 		return sres;
+	}
+
+
+
+	string longestPalindrome(string s)//加#
+	{
+		string ss = "";
+		//ss += s;
+		int len = 2 * s.size();
+		for (int i = 0; i < len; )
+		{
+			ss[i] = '#';
+			ss[i + 1] = s[i / 2];
+		}
+		ss += "#";
+		int resl = 0;
+		int resr = 0;
+		int res = 1;
+		for (int i = 0;i < len + 1; ++i)
+		{
+			int l = i - 1, r = i + 1;
+			while (l >= 0 && r < len && ss[l] == ss[r])
+			{
+				if (r - l + 1 > res)
+				{
+					res = r - l + 1;
+					resl = l;
+					resr = r;
+				}
+
+				l--;
+				r++;
+			}
+		}
+		string rr;
+		for (int i = resl; i <= resr; ++i)
+			rr += ss[i];
+		return rr;
+
 	}
 };
 void main_Longest_Palindromic_Substring()

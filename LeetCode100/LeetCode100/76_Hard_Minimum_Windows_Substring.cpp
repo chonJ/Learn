@@ -13,7 +13,7 @@ public:
 		int counter = t.size(), begin = 0, end = 0, d = INT_MAX, head = 0;
 		while (end < s.size()) {
 			if (map[s[end++]]-- > 0) counter--; //in t
-			while (counter == 0) { //valid
+			while (counter == 0) { //valid 当第一个“内元素”要循环增前
 				if (end - begin < d)  d = end - (head = begin);
 				int a = map[s[begin]];
 				if (map[s[begin++]]++ == 0) 

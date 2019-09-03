@@ -1,3 +1,9 @@
-﻿  207.cpp
-d:\learn\learn\leetcode100\leetcode100\207.cpp(74): warning C4326: “main”的返回类型应为“int”而非“void”
-  LeetCode100.vcxproj -> D:\Learn\Learn\LeetCode100\Debug\LeetCode100.exe
+﻿  memcopy.cpp
+d:\learn\learn\leetcode100\leetcode100\memcopy.cpp(22): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  StrToInt.cpp
+d:\learn\learn\leetcode100\leetcode100\strtoint.cpp(53): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  回文子串.cpp
+d:\learn\learn\leetcode100\leetcode100\回文子串.cpp(148): warning C4018: “<”: 有符号/无符号不匹配
+d:\learn\learn\leetcode100\leetcode100\回文子串.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+LINK : fatal error LNK1561: 必须定义入口点
