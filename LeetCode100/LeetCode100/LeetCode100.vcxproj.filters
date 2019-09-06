@@ -22,6 +22,9 @@
     <Filter Include="源文件\面试">
       <UniqueIdentifier>{17681a4a-b01a-4bfc-b558-32b8ed4d4ee8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\常考题">
+      <UniqueIdentifier>{8f958f55-4472-4884-bc06-824dfef0a94d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="替换空格.cpp">
@@ -377,6 +380,27 @@
     </ClCompile>
     <ClCompile Include="StrToInt.cpp">
       <Filter>源文件\面试</Filter>
+    </ClCompile>
+    <ClCompile Include="165_Compare_Version_Numbers.cpp">
+      <Filter>源文件\LeetCode100</Filter>
+    </ClCompile>
+    <ClCompile Include="1_栈排序.cpp">
+      <Filter>源文件\常考题</Filter>
+    </ClCompile>
+    <ClCompile Include="2_链表实现队列.cpp">
+      <Filter>源文件\常考题</Filter>
+    </ClCompile>
+    <ClCompile Include="3_最长连续增序列.cpp">
+      <Filter>源文件\常考题</Filter>
+    </ClCompile>
+    <ClCompile Include="5_二维数组回行打印.cpp">
+      <Filter>源文件\常考题</Filter>
+    </ClCompile>
+    <ClCompile Include="674_Longest_COntinuous_Increasing_Subsequence.cpp">
+      <Filter>源文件\LeetCode100</Filter>
+    </ClCompile>
+    <ClCompile Include="4_最长连续序列%28序列不连续%29.cpp">
+      <Filter>源文件\常考题</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -145,11 +145,13 @@
     <ClCompile Include="155_Min_Stack.cpp" />
     <ClCompile Include="15_3Sum.cpp" />
     <ClCompile Include="160_Intersection_of_Two_Linked_Lists.cpp" />
+    <ClCompile Include="165_Compare_Version_Numbers.cpp" />
     <ClCompile Include="169_Majority_Element.cpp" />
     <ClCompile Include="16_3Sum_Closest.cpp" />
     <ClCompile Include="17_Letter_Combinations_of_a_Phone_Number.cpp" />
     <ClCompile Include="198_House_Robber.cpp" />
     <ClCompile Include="19_Remove_Nth_Node_From_End_of_List.cpp" />
+    <ClCompile Include="1_栈排序.cpp" />
     <ClCompile Include="200_Number_of_Island.cpp" />
     <ClCompile Include="203_Remove_Linked_List_Elemrents.cpp" />
     <ClCompile Include="206_Reverse_Linked_List.cpp" />
@@ -177,6 +179,7 @@
     <ClCompile Include="283_Move_Zeros.cpp" />
     <ClCompile Include="287_Find_the_duplicate_Number.cpp" />
     <ClCompile Include="297_________H.cpp" />
+    <ClCompile Include="2_链表实现队列.cpp" />
     <ClCompile Include="300_Longest_Increasing_Subsequence.cpp" />
     <ClCompile Include="301_________H.cpp" />
     <ClCompile Include="309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.cpp" />
@@ -192,6 +195,7 @@
     <ClCompile Include="34_Find_F_and_L_position_of_element.cpp" />
     <ClCompile Include="394_Decode_String.cpp" />
     <ClCompile Include="39_combination_Sum.cpp" />
+    <ClCompile Include="3_最长连续增序列.cpp" />
     <ClCompile Include="406.cpp" />
     <ClCompile Include="416_Partition_Equal_Subset_Sum.cpp" />
     <ClCompile Include="42_Trapping_Rain_Water.cpp" />
@@ -201,6 +205,7 @@
     <ClCompile Include="46_Permutations.cpp" />
     <ClCompile Include="48_Rotate_Image.cpp" />
     <ClCompile Include="49_Group_Anagrams.cpp" />
+    <ClCompile Include="4_最长连续序列%28序列不连续%29.cpp" />
     <ClCompile Include="51_N-Queens.cpp" />
     <ClCompile Include="53_Maximum_Subarry.cpp" />
     <ClCompile Include="543333.cpp" />
@@ -213,8 +218,10 @@
     <ClCompile Include="1_Two_Sum.cpp" />
     <ClCompile Include="2_Add_Two_Numbers.cpp" />
     <ClCompile Include="21_Merge_Two_Sorted_Lists.cpp" />
+    <ClCompile Include="5_二维数组回行打印.cpp" />
     <ClCompile Include="62_Unique_Path.cpp" />
     <ClCompile Include="64_MInimum_Path_Sum.cpp" />
+    <ClCompile Include="674_Longest_COntinuous_Increasing_Subsequence.cpp" />
     <ClCompile Include="70_Climbing_Stairs.cpp" />
     <ClCompile Include="72_Edit_Distance.cpp" />
     <ClCompile Include="75_Sort_Colors.cpp" />
