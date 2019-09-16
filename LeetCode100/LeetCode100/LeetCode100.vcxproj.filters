@@ -402,5 +402,8 @@
     <ClCompile Include="4_最长连续序列%28序列不连续%29.cpp">
       <Filter>源文件\常考题</Filter>
     </ClCompile>
+    <ClCompile Include="6_无序数组构建一棵二叉排序树.cpp">
+      <Filter>源文件\常考题</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
